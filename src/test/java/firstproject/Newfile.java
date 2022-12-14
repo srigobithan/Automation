@@ -26,7 +26,7 @@ public class Newfile {
 		// WebElement username= driver.findElement(By.xpath("//*[@id=\"root\"]/div/div/div[2]/div/div/div/span[1]/input"));
 		// username.sendKeys("user");
 				
-//		 driver.findElement(By.xpath("//*[@id=\"root\"]/div/div/div[2]/div/div/div/span[1]/input")).sendKeys("user");	
+		 driver.findElement(By.xpath("//*[@id=\"root\"]/div/div/div[2]/div/div/div/span[1]/input")).sendKeys("user");	
 //		 driver.findElement(By.xpath("//*[@id=\"root\"]/div/div/div[2]/div/div/div/span[2]/input")).sendKeys("password");	
 //		 driver.findElement(By.xpath("//*[@id=\"root\"]/div/div/div[2]/div/div/div/button")).click();
 		 
